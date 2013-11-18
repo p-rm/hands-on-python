@@ -1,4 +1,4 @@
 hands-on-python
 ==========
 
-Just a few Tips and Tricks notes which I found useful to keep nearby.. 
+A few tips and tricks notes which I found useful to keep it.. 
